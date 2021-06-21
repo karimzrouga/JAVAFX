@@ -1,0 +1,4 @@
+[id=18, nom=steve, email=null, password=null,   pays=Tn,   Arena=l1,   Score=-1,   nbround=-1]
+[id=6, nom=alex, email=null, password=null,   pays=Tn,   Arena=l1,   Score=-2,   nbround=-2]
+[id=7, nom=karim, email=null, password=null,   pays=Tn,   Arena=l1,   Score=-1,   nbround=-1]
+[id=8, nom=ahmed, email=null, password=null,   pays=Tn,   Arena=l1,   Score=-2,   nbround=-2]
